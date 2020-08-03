@@ -42,6 +42,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Create a static webpage with a contact form on Github pages ](https://dev.to/charalambosioannou/create-a-static-webpage-with-a-contact-form-on-github-pages-3532)
 <!-- BLOG-POST-LIST:END -->
 
 ## My Github Stats:
