@@ -15,6 +15,9 @@
 
 [<img align="left" alt="CharalambosIoannou" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="CharalambosIoannou | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="CharalambosIoannou | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
+
+
 
 
 <br />
@@ -42,3 +45,4 @@
 
 [website]: https://charalambosioannou.github.io/
 [linkedin]: https://linkedin.com/in/charalambosioannou
+[mail]: mailto:mithunsmenon@gmail.com
