@@ -54,6 +54,9 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight)
+
+
 [website]: https://charalambosioannou.github.io/
 [linkedin]: https://linkedin.com/in/charalambosioannou
 [mail]: mailto:cioannou1997@gmail.com
