@@ -2,7 +2,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou) [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/CharalambosIoannou)
 
 
-## 🎓 I'm an MSc Data Science student at the Univesity of Edinburgh
+## 🎓 I'm an MSc Data Science student at the University of Edinburgh
 
 - 🔭 I’m currently developing a mobile app with Glideapps.
 - 🌱 I’m looking forward in learning Flutter soon.
