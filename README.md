@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm [Charalambos][website] but you can call me Harry 
 
-![](https://visitor-badge.glitch.me/badge?page_id=CharalambosIoannou.CharalambosIoannou)
+![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou)
 
 
 ## I'm an MSc Data Science student at the Univesity of Edinburgh
@@ -45,4 +45,4 @@
 
 [website]: https://charalambosioannou.github.io/
 [linkedin]: https://linkedin.com/in/charalambosioannou
-[mail]: mailto:mithunsmenon@gmail.com
+[mail]: mailto:cioannou1997@gmail.com
