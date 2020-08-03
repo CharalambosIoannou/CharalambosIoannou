@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm [Charalambos][website] but you can call me Harry 
-[![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/CharalambosIoannou)
+![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou) [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/CharalambosIoannou)
 
 
 ## 🎓 I'm an MSc Data Science student at the Univesity of Edinburgh
@@ -51,8 +51,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 ## :trophy: My Github Stats:
-![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou)
-
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&show_icons=true&theme=tokyonight)
 
