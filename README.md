@@ -2,7 +2,7 @@
 [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/CharalambosIoannou)
 
 
-## I'm an MSc Data Science student at the Univesity of Edinburgh
+## 🎓 I'm an MSc Data Science student at the Univesity of Edinburgh
 
 - 🔭 I’m currently developing a mobile app with Glideapps.
 - 🌱 I’m looking forward in learning Flutter soon.
@@ -10,18 +10,23 @@
 - 💬 Ask me about anything
 - ⚡ Fun fact: I love playing tennis and computer games.
 
-## Find me on:
+## :email: Find me on:
 
-[<img align="left" alt="CharalambosIoannou" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="CharalambosIoannou | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="CharalambosIoannou | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
+<!--
+[<img align="left" alt="CharalambosIoannou" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="CharalambosIoannou | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="CharalambosIoannou | Mail" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
+-->
 
-
-
+<p align="center">
+ <a href="https://charalambosioannou.github.io/"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" href="https://charalambosioannou.github.io/" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://linkedin.com/in/charalambosioannou"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:cioannou1997@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+</p>
 
 <br />
 
-## Languages and Tools:
+## 🧰 Languages and Tools:
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
@@ -40,12 +45,12 @@
 
 <br />
 
-## Blog posts
+## :blue_book: Blog posts:
 <!-- BLOG-POST-LIST:START -->
 - [Create a static webpage with a contact form on Github pages ](https://dev.to/charalambosioannou/create-a-static-webpage-with-a-contact-form-on-github-pages-3532)
 <!-- BLOG-POST-LIST:END -->
 
-## My Github Stats:
+## :trophy: My Github Stats:
 ![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou)
 
 
