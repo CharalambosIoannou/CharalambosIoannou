@@ -48,7 +48,7 @@
 ## :blue_book: Blog posts:
 <!-- BLOG-POST-LIST:START -->
 - [Create a dynamic GitHub profile Readme](https://dev.to/charalambosioannou/create-a-dynamic-github-profile-readme-il5)
-- [Create a static webpage with a contact form on Github pages ](https://dev.to/charalambosioannou/create-a-static-webpage-with-a-contact-form-on-github-pages-3532)
+- [Create a static webpage with a contact form on Github pages](https://dev.to/charalambosioannou/create-a-static-webpage-with-a-contact-form-on-github-pages-3532)
 <!-- BLOG-POST-LIST:END -->
 
 ## :trophy: My Github Stats:
