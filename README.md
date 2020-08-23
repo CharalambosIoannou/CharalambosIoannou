@@ -56,7 +56,7 @@
 - [Create a static webpage with a contact form on Github pages](https://dev.to/charalambosioannou/create-a-static-webpage-with-a-contact-form-on-github-pages-3532)
 <!-- BLOG-POST-LIST:END -->
 
-## Recent Github Activity:
+## :zap: Recent Github Activity:
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#48](https://github.com//CharalambosIoannou/Tennis-Academy-REST-API/pull/48) in [CharalambosIoannou/Tennis-Academy-REST-API](https://github.com//CharalambosIoannou/Tennis-Academy-REST-API)
 2. 🎉 Merged PR [#49](https://github.com//CharalambosIoannou/Tennis-Academy-REST-API/pull/49) in [CharalambosIoannou/Tennis-Academy-REST-API](https://github.com//CharalambosIoannou/Tennis-Academy-REST-API)
