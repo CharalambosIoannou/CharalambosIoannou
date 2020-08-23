@@ -70,6 +70,11 @@
   <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight" />
 </a>
 
+
+## Recent Github Activity:
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 [website]: https://charalambosioannou.github.io/
 [linkedin]: https://linkedin.com/in/charalambosioannou
 [mail]: mailto:cioannou1997@gmail.com
