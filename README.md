@@ -7,7 +7,7 @@
 ## 🎓 I'm an MSc Data Science student at the University of Edinburgh
 
 - 🔭 I’m currently developing a mobile app with Glideapps.
-- 🌱 I’m currently learning Angular.
+- 🌱 I’m currently learning Rshiny. 
 - 👯 I’m looking to collaborate with anyone on any project.
 - 💬 Ask me about anything
 - ⚡ Fun fact: I love playing tennis and computer games.
