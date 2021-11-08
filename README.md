@@ -52,7 +52,7 @@
 ## :blue_book: Blog posts:
 <!-- BLOG-POST-LIST:START -->
 - [Develop a mobile app with NO coding!!](https://dev.to/charalambosioannou/develop-a-mobile-app-without-one-line-of-code-oeh)
-- [Awesome typing effect overlay on images (CSS+JS)](https://dev.to/charalambosioannou/awesome-typing-effect-overlay-on-images-css-js-2nof)
+- [Awesome typing effect overlay on images &lpar;CSS+JS&rpar;](https://dev.to/charalambosioannou/awesome-typing-effect-overlay-on-images-css-js-2nof)
 - [Create a dynamic GitHub profile Readme](https://dev.to/charalambosioannou/create-a-dynamic-github-profile-readme-il5)
 - [Create a static webpage with a contact form on Github pages](https://dev.to/charalambosioannou/create-a-static-webpage-with-a-contact-form-on-github-pages-3532)
 <!-- BLOG-POST-LIST:END -->
