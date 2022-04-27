@@ -51,11 +51,11 @@
 
 ## :blue_book: Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Create an Awesome Cover Letter with GPT-3](https://dev.to/charalambosioannou/create-an-awesome-cover-letter-with-gpt-3-4f65)
 - [10+1 Useful Python Code Snippets for Everyday Problems](https://dev.to/charalambosioannou/10-useful-one-liner-python-code-snippets-to-make-your-everyday-coding-useful-javascript-code-snippets-for-common-problems-351)
 - [Develop a mobile app with NO coding!!](https://dev.to/charalambosioannou/develop-a-mobile-app-without-one-line-of-code-oeh)
 - [Awesome typing effect overlay on images &lpar;CSS+JS&rpar;](https://dev.to/charalambosioannou/awesome-typing-effect-overlay-on-images-css-js-2nof)
 - [Create a dynamic GitHub profile Readme](https://dev.to/charalambosioannou/create-a-dynamic-github-profile-readme-il5)
-- [Create a static webpage with a contact form on Github pages](https://dev.to/charalambosioannou/create-a-static-webpage-with-a-contact-form-on-github-pages-3532)
 <!-- BLOG-POST-LIST:END -->
 
 
