@@ -1,16 +1,16 @@
-## Hi there 👋 I'm [Charalambos][website] but you can call me Harry 😀
+## Hi there 👋 I'm [Charalambos][website] a.k.a Harry 😀
 ![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou) [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Followers&logo=Github)](https://github.com/CharalambosIoannou)
 
 
 
 
-## 🎓 I'm an MSc Data Science student at the University of Edinburgh
+## 🎓 I'm a Data Science Consultant for AWS
 
-- 🔭 I’m currently developing a mobile app with Glideapps.
+- 🔭 I’m currently building my [Fiverr](https://www.fiverr.com/harryioan/) Gigs.
 - 🌱 I’m currently learning Rshiny. 
 - 👯 I’m looking to collaborate with anyone on any project.
 - 💬 Ask me about anything
-- ⚡ Fun fact: I love playing tennis and computer games.
+- 🤖 I am a [PyData](https://pydata.org/) Mentor. How may AI help you?
 
 ## :email: Find me on:
 
@@ -77,7 +77,7 @@
 
 
 
-[website]: https://charalambosioannou.github.io/
+[website]: https://charalambosioannou.tech
 [linkedin]: https://linkedin.com/in/charalambosioannou
 [mail]: mailto:cioannou1997@gmail.com
 
