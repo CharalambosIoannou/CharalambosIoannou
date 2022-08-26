@@ -4,7 +4,7 @@
 
 
 
-## 🎓 I'm a Data Science Consultant for AWS
+## 🎓 I'm a Freelance Data Scientist
 
 - 🔭 I’m currently building my [Fiverr](https://www.fiverr.com/harryioan/) Gigs.
 - 🌱 I’m currently learning Rshiny. 
