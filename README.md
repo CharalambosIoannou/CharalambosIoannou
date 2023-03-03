@@ -1,4 +1,4 @@
-## Hi there 👋 I'm [Charalambos][website] a.k.a Harry 😀
+## Hi there I'm [Charalambos][website] a.k.a Harry 
 ![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou) [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Followers&logo=Github)](https://github.com/CharalambosIoannou)
 
 
